@@ -2,6 +2,12 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-image: url("Assets/pictures/bg-1.jpg");
+}
+
+.display-3{
+  font-family: 'Raleway', sans-serif;
+
 }
 
 textarea{
